@@ -1,0 +1,50 @@
+.post img{
+height: 350px;
+
+
+}
+header{
+background-image: url(../pexels-kartik-kacha-1056371-2569760.jpg);
+background-size: cover;
+height: 700px;
+
+}
+header nav{
+position: fixed;
+left: 0;
+top:0;
+z-index: 1;
+}
+.post{
+height:500px;
+}
+
+
+.allLink{
+position: absolute;
+bottom:30px;
+width: 100%;
+
+}
+.my-name{
+font-size: 30px;
+color: yellowgreen;
+text-transform: capitalize;
+}
+.dsc{
+font-size: 20px;
+font-weight: 200;
+color: aquamarine;
+text-transform: uppercase;
+}
+.col-md-3{
+background-color: rgba(17, 17, 17, 0.4);
+}
+.tex{
+word-spacing: 10px;
+
+}
+a{
+cursor: pointer;
+
+}
